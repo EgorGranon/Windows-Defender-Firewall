@@ -3,8 +3,7 @@
 |-----|-------------|
 | 1-  | Configurer les règles du pare-feu à l'aide de Windows Defender Firewall |
 | 2-  | Configurer les règles du pare-feu à l'aide de Windows Defender Firewall avec Advanced Security |
-| 3-  |  |
-| 4-  |  |
+
 ## 1- Configurer les règles du pare-feu à l'aide de Windows Defender Firewall
 1- Cliquez le boutton **Start** et selectionnez **Windows Security**
 
